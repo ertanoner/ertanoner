@@ -2,4 +2,4 @@
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
 ...........................................................................
-<h1>Python Developer,  </h1>
+<h1> Basic, Database, C++, Python Developer   </h1>
