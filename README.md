@@ -3,5 +3,5 @@
 
 ...........................................................................
 <h1> Programming: Basic, Database, C++, Python Developer   </h1>
-<h1> Software: Bentley Cube, PLS Pole, PLS Tower, Primavera,</h1>
-<h1>          SAP, Sidra, Synchro,  </h1>
+<h1> Softwares: Bentley Cube, PLS Pole, PLS Tower, Primavera,</h1>
+<h1>            SAP, Sidra, Synchro, Autocad, ESRI ArcMap, QGIS </h1>
